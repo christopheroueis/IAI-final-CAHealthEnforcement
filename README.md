@@ -4,6 +4,11 @@
 
 CareEnforced AI is a dual-track machine learning platform that predicts regulatory enforcement risk for California healthcare facilities. It analyzes financial, operational, and staffing data to help facility administrators proactively identify compliance issues before penalties occur.
 
+<video src="livedemo-recording.mov" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 🎯 Project Overview
 
 ### Two Prediction Systems
